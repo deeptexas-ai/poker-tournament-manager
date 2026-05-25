@@ -1,4 +1,4 @@
-# 🏆 德州扑克赛事系统 - Poker Event Server (CPG/TJPT Style)
+# 🏆 德州扑克赛事系统/德州赛事/德州竞技赛/德州MTT/德州源码 - Poker Event Server (CPG/TJPT Style)
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)](https://isocpp.org/)
